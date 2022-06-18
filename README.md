@@ -36,6 +36,7 @@ So Before running the project make sure you are installed the below softwares on
 6. IMPORT THE ATTACHED DATABASE FILE IN YOUR DATABASE (MYSQL(PHP MY ADMIN)).
 7. GO TO YOUR WEB ADDRESS.
 8. CREATE REGISTRATION AND CREATE YOUR TODO LIST.
+9. MAKE SURE YOU ARE DELETED THE CACHE FILE FROM THE PATH rootfolder/bootstrap/cache/config.php -> delete this config.php file to run without any cache or config problem
 
 
 Please let me know if you are getting any trouble OR IF YOU NEED ANY HELP.
